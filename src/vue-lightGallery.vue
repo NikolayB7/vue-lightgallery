@@ -38,7 +38,7 @@ export default {
         dynamic: true,
         dynamicEl: this.images,
         index: index,
-        preload: 0,
+        preload: 2,
         iframeMaxWidth: "70%"
       });
     }
